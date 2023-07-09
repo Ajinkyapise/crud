@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Ajinkya",
+      "username": "Hope",
+      "email": "lha@gmail.com",
+      "phoneno": "4805698981",
+      "id": 1
+    },
+    {
+      "name": "asd",
+      "username": "1121212",
+      "email": "dddd",
+      "phone": "",
+      "phoneno": "dddd",
+      "id": 2
+    },
+    {
+      "name": "ajinkya",
+      "username": "realQ",
+      "email": "www.@ghmail.com",
+      "phone": "",
+      "phoneno": "99999999",
+      "id": 3
+    }
+  ]
+}
